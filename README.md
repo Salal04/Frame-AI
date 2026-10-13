@@ -356,7 +356,7 @@ You need: a Google account, a GitHub account, and one free [Gemini API key](http
 
 ### Step 1 · Open the frontend and create your refresh token
 
-1. Open the deployed web app: **`https://YOUR-FRONTEND-URL`**
+1. Open the deployed web app: **`[https://YOUR-FRONTEND-URL](https://frame-ebon-three.vercel.app/)`**
 2. Click **Connect Google Drive** and log in with Google.
 3. Go to **Control room**:
    * paste your **Gemini API key(s)**, one per line, and save (they are stored in *your* Drive, not in GitHub)
